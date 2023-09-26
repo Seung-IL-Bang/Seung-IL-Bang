@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Backend Developer
+문제를 찾고 해결하고 즐기는 백엔드 개발자 방승일입니다.
+
+
 ### 🛠 Tech Stack 💻
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
@@ -32,3 +36,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bang0507)](https://solved.ac/bang0507/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-IL-Bang&show_icons=true&theme=transparent)
