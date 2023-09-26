@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=007FFF&height=300&section=header&text=Keep%20Enjoy%20Develop&fontSize=50&rotate=18)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=007FFF&height=200&text=Keep%20Enjoy%20Develop&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44&fontSize=50&fontColor=FFFFFF&animation=twinkling)
 
 <!--
 **Seung-IL-Bang/Seung-IL-Bang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
