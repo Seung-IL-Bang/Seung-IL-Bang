@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bang0507)](https://solved.ac/bang0507/)
